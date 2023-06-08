@@ -1,4 +1,4 @@
-package estrutura.dados.pilha;
+package estrutura.dados.pilha.exercicios;
 
 public class Livro {
     private String nome;

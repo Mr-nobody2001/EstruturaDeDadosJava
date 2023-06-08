@@ -1,4 +1,4 @@
-package estrutura.dados.arvore.binaria;
+package estrutura.dados.arvore_binaria;
 
 public class ArvoreBinariaTeste {
     public static void main(String[] args) {

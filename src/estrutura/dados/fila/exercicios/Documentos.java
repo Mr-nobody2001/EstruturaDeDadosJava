@@ -1,4 +1,4 @@
-package estrutura.dados.fila;
+package estrutura.dados.fila.exercicios;
 
 public class Documentos {
     private String nome;

@@ -1,15 +1,15 @@
-package estrutura.dados.vetor;
+package estrutura.dados.arraylist;
 
-public class Vetor<T> {
+public class ArrayList<T> {
     private T[] elementos;
     private int tamanhoVetor; // Guarda a quantidade de elementos inseridos no vetor
 
-    public Vetor(int quantidadeElementosDesejada) {
+    public ArrayList(int quantidadeElementosDesejada) {
         this.elementos = (T[]) new Object[quantidadeElementosDesejada];
         this.tamanhoVetor = 0;
     }
 
-    public Vetor() {
+    public ArrayList() {
        this(10);
     }
 

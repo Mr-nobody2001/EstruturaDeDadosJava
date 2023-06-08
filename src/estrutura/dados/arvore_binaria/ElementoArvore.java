@@ -1,4 +1,4 @@
-package estrutura.dados.arvore.binaria;
+package estrutura.dados.arvore_binaria;
 
 public class ElementoArvore<T> {
     private T valor;

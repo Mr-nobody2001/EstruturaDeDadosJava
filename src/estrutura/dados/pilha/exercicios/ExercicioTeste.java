@@ -1,4 +1,4 @@
-package estrutura.dados.pilha;
+package estrutura.dados.pilha.exercicios;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
